@@ -27,4 +27,4 @@
     android:text="Hapy Birthday"
     android:layout_width="150dp"
     android:layout_height="150"
-    android:background="@android:color/darker_groy"/>
+    android:background="@android:color/darker_gray"/>
